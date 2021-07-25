@@ -3,7 +3,7 @@ name: python-helloworld
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   docker:
